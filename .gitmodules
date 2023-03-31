@@ -1,0 +1,3 @@
+[submodule "MIRACL-CUDA"]
+	path = MIRACL-CUDA
+	url = https://github.com/Sparks-Pion/MIRACL-CUDA
